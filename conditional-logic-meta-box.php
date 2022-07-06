@@ -13,12 +13,13 @@
                 <p style="font-weight: normal;">
 					<?php _e( 'Options for linking form field values to variation or individual attribute selection', 'wc_gf_addons' ); ?>
                 </p>
+
             </div>
 
 			<?php
 			woocommerce_wp_select( array(
 				'id'          => 'gravityform_conditional_logic_type',
-				'label'       => __( 'Override WooCommerce Structured Data?', 'wc_gf_addons' ),
+				'label'       => __( 'Conditional logic link type', 'wc_gf_addons' ),
 				'value'       => isset( $gravity_form_data['gravityform_conditional_logic_type'] ) ? $gravity_form_data['gravityform_conditional_logic_type'] : 'none',
 				'options'     => array(
 					'none'       => __( 'None', 'wc_gf_addons' ),

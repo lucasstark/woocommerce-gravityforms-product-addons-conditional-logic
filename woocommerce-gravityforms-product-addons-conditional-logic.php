@@ -9,14 +9,14 @@
  * Developer: Lucas Stark
  * Developer URI: http://www.elementstark.com/
  * Requires at least: 3.1
- * Tested up to: 5.8
+ * Tested up to: 6.0
 
- * Copyright: © 2009-2021 Element Stark.
+ * Copyright: © 2009-2022 Element Stark.
  * License: GNU General Public License v3.0
  * License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
  * WC requires at least: 3.0.0
- * WC tested up to: 6.0
+ * WC tested up to: 6.7
  */
 
 
